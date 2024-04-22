@@ -6,7 +6,7 @@ timezone: Asia/Seoul
 
 title: Jinwhl # the main title
 
-tagline: For Record # it will display as the sub-title
+tagline: 삽질 기록용 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -20,7 +20,7 @@ twitter:
   username: twitter_username # change to your twitter username
 
 social:
-  name: your_full_name
+  name: JINWON LEE
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
