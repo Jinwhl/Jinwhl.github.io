@@ -1,6 +1,6 @@
 theme: jekyll-theme-chirpy
 
-lang: ko
+lang: ko-KR
 
 timezone: Asia/Seoul
 
@@ -16,15 +16,15 @@ url: "https://jinwhl.github.io/"
 github:
   username: Jinwhl # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
-  name: JINWON LEE
+  name: Jinwhl
   email: myjames3564@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/Jinwhl # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
