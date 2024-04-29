@@ -1,5 +1,9 @@
 <!-- The Footer -->
 
+
+
+
+
 <footer
   aria-label="Site Info"
   class="
@@ -8,7 +12,7 @@
   "
 >
   <p>
-    {{- '©' }}
+    {{- '' }}
     <time>{{ 'now' | date: '%Y' }}</time>
 
     {% if site.social.links %}
@@ -27,6 +31,14 @@
       </span>
     {% endif %}
   </p>
+
+
+
+
+
+
+
+<!--
 
   <p>
     {%- capture _platform -%}
@@ -47,3 +59,6 @@
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>
 </footer>
+
+
+-->

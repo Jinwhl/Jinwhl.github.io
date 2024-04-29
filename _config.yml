@@ -1,12 +1,12 @@
 theme: jekyll-theme-chirpy
 
-lang: ko-KR
+lang:
 
 timezone: Asia/Seoul
 
 title: Jinwhl # the main title
 
-tagline: 삽질 기록용 # it will display as the sub-title
+tagline: 까먹기 전에 기록 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -25,6 +25,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
+    - https://www.instagram.com/Jinwhl
     - https://github.com/Jinwhl # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -70,7 +71,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  [light | dark]
+theme_mode: [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
